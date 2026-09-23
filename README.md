@@ -1,3 +1,21 @@
+<!-- repo-usage-notes:start -->
+## 功能与下载速查
+
+Android 应用内更新库与 Demo：多种弹窗样式、强制更新、断点续传、下载重试和 MD5 校验；供开发集成。
+
+### 下载到另一台电脑
+
+- [下载源码 ZIP](https://github.com/lucc1832/AutoUpdateProject-master/archive/refs/heads/master.zip)，或在仓库页面选择 **Code → Download ZIP**。
+- 使用 GitHub CLI：`gh repo clone lucc1832/AutoUpdateProject-master`。
+- 整理时未发现本仓库 Releases 的安装包附件；上述 ZIP 是源码/资料，不是现成安装包。原说明中的其他下载入口见下文。
+
+### 使用与迁移
+
+这是开发库和示例工程，按原 README 集成 Gradle 依赖或用 Android Studio 构建 Demo；不是独立的通用软件升级器。
+
+说明依据本仓库文档与源码整理于 2026-09-23；此次整理未运行应用或活动脚本。
+<!-- repo-usage-notes:end -->
+
 # AutoUpdateProject
 
 [![](https://jitpack.io/v/MZCretin/AutoUpdateProject.svg)](https://jitpack.io/#MZCretin/AutoUpdateProject)
